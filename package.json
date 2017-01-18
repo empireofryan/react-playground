@@ -1,0 +1,14 @@
+{
+  "name": "react-playground",
+  "version": "1.0.0",
+  "description": "Manipulation of react components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Johnson",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
